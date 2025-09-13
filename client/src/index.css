@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.scroll-thin::-webkit-scrollbar { width: 6px; }
+.scroll-thin::-webkit-scrollbar-thumb { background: rgb(209 213 219); border-radius: 0.25rem; }
+.debug-box { padding: 12px; border-radius: 12px; }
