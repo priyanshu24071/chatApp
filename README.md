@@ -1,4 +1,4 @@
-# 💬 Socket.IO Chat App
+ Socket.IO Chat App
 
 A simple **real-time chat application** built with **React (Vite)** for the frontend and **Node.js + Express + Socket.IO + MongoDB** for the backend.  
 
@@ -7,7 +7,7 @@ Messages are stored in MongoDB and only the last 10 are kept.
 
 
 
-## 🛠️ Tech Stack
+ Tech Stack
 
 - Frontend:React + Vite + Socket.IO Client  
 - Backend:  Node.js, Express, Socket.IO  
@@ -15,9 +15,9 @@ Messages are stored in MongoDB and only the last 10 are kept.
 
 
 
-## ⚙️ Setup & Installation
+ Setup & Installation
 
-### 1. Clone the Repo
+1. Clone the Repo
 
 git clone https://github.com/priyanshu24071/chatApp.git
 cd chatApp
